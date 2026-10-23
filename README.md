@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Zero-Sievert-Save-Editor` · Updated: 2026-10-07
+`Zero-Sievert-Save-Editor` · Updated: 2026-10-24
 
 **Tags:** `zero-sievert` `save-editor` `extraction` `survival` `roguelite`
